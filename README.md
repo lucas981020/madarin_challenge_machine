@@ -1,4 +1,4 @@
-# https://lucas981020.github.io/madarin_challenge_machine/
+# 遊戲連結：https://lucas981020.github.io/madarin_challenge_machine/
 # 對，玩就對了。
 # 有問題 *IG: lucasowo._.1020* 找我我立刻修改
 # 你們寫字形的時候，盡量不要用注音輸入，用 **手寫輸入** 才比較有練到。
